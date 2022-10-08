@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IFSC-Finder/static/css/main.799b8a8d.css",
-    "main.js": "/IFSC-Finder/static/js/main.0d2c43af.js",
+    "main.css": "/IFSC-Finder/static/css/main.216ac397.css",
+    "main.js": "/IFSC-Finder/static/js/main.068a6ee9.js",
     "static/js/787.cdfe00ef.chunk.js": "/IFSC-Finder/static/js/787.cdfe00ef.chunk.js",
     "index.html": "/IFSC-Finder/index.html",
-    "main.799b8a8d.css.map": "/IFSC-Finder/static/css/main.799b8a8d.css.map",
-    "main.0d2c43af.js.map": "/IFSC-Finder/static/js/main.0d2c43af.js.map",
+    "main.216ac397.css.map": "/IFSC-Finder/static/css/main.216ac397.css.map",
+    "main.068a6ee9.js.map": "/IFSC-Finder/static/js/main.068a6ee9.js.map",
     "787.cdfe00ef.chunk.js.map": "/IFSC-Finder/static/js/787.cdfe00ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.799b8a8d.css",
-    "static/js/main.0d2c43af.js"
+    "static/css/main.216ac397.css",
+    "static/js/main.068a6ee9.js"
   ]
 }
